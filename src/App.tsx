@@ -2,19 +2,19 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [likes, setLikes] = useState(0)
+  const [likes, setLikes] = useState(100)
 
   return (
     <>
       <div>
-        <a href="#" target="_blank">
+        <a href="#">
           <img src="vite.svg" className="logo" alt="Logo 1" />
         </a>
-        <a href="#" target="_blank">
+        <a href="#">
           <img src="vite.svg" className="logo react" alt="Logo 2" />
         </a>
       </div>
-      <h1>Welcome to Our Pasta House</h1>
+      <h1>Welcome to Our Pasta House!</h1>
       <div className="card">
         <button onClick={() => setLikes((likes) => likes + 1)}>
           Likes: {likes}
