@@ -8,10 +8,10 @@ function App() {
     <>
       <div>
         <a href="#" target="_blank">
-          <img src="/assets/logo-1.svg" className="logo" alt="" />
+          <img src="/assets/logo-1.svg" className="logo" alt="Logo 1" />
         </a>
         <a href="#" target="_blank">
-          <img src="/assets/logo-2.svg" className="logo react" alt="" />
+          <img src="/assets/logo-2.svg" className="logo react" alt="Logo 2" />
         </a>
       </div>
       <h1>Welcome to Our Pasta House</h1>
