@@ -1,7 +1,7 @@
 以下のWebサイトについて、3人の異なるペルソナの視点から、それぞれの立場・関心に基づいたレビューを行ってください。
 
 Webサイト:
-https://example.com/
+https://wasabina67.github.io/playwright-mcp-example/
 
 ## ペルソナ設定
 
