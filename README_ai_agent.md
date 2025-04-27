@@ -5,4 +5,13 @@ https://example.com/
 
 ## ペルソナ設定
 
+ペルソナ1：aaa
+→ aaa
+
+ペルソナ2：aaa
+→ aaa
+
+ペルソナ3：aaa
+→ aaa
+
 ## レビュー観点
