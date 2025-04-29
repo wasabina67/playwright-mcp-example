@@ -1,9 +1,6 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [likes, setLikes] = useState(100)
-
   return (
     <>
       <div>
@@ -14,11 +11,8 @@ function App() {
           <img src="vite.svg" className="logo react" alt="Logo 2" />
         </a>
       </div>
-      <h1>Welcome to Our Pasta House!</h1>
+      <h1>ザ・アルデンテ</h1>
       <div className="card">
-        <button onClick={() => setLikes((likes) => likes + 1)}>
-          Likes: {likes}
-        </button>
         <p>
         Discover our delicious pasta recipes and visit us for an unforgettable dining experience.
         </p>
