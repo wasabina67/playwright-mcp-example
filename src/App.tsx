@@ -14,11 +14,11 @@ function App() {
       <h1>ザ・アルデンテ</h1>
       <div className="card">
         <p>
-        Discover our delicious pasta recipes and visit us for an unforgettable dining experience.
+          1977年に新宿で創業したスパゲッティ専門店。絶妙なアルデンテの食感とコシの強い麺が特徴です。
         </p>
       </div>
       <p className="read-the-docs">
-        We look forward to your visit.
+        ご来店お待ちしております。
       </p>
     </>
   )
