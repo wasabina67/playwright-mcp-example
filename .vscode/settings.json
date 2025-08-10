@@ -1,13 +1,11 @@
 {
-    "mcp": {
-        "servers": {
-            "playwright": {
-                "command": "npx",
-                "args": [
-                    "@playwright/mcp@latest",
-                    "--headless"
-                ]
-            }
+    "servers": {
+        "playwright": {
+            "command": "npx",
+            "args": [
+                "@playwright/mcp@latest",
+                "--headless"
+            ]
         }
     }
 }
